@@ -7,6 +7,7 @@ package com.practiceground.basics;
  *
  */
 public class Squares {
+		
 
 	public static void main(String args[]) {
 		
