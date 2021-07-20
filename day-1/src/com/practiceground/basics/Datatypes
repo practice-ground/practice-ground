@@ -1,0 +1,19 @@
+4 Types integer values in JAVA 
+
+byte  - 8 bits   (-128 to 127)
+short - 16 bits ( -32768 to 32768)
+int - 32 bits 
+long  - 64 bits
+
+
+types of floating values in JAVA 
+float f1 = 4.5f  [ 32 bits ] 
+double d1 = 4.5  [ 64 bits ]
+
+//Note for float need 'f' at the end of the number if you dont add f 
+at end it will become double 
+
+char c ='A'  - 16 bits 
+boolean isTrue = false;  // true or false
+
+Note:- if you are using finance calculation use BigDecimal.

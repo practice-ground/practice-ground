@@ -1,4 +1,9 @@
 package com.practiceground.basics;
+/** 
+ * 
+ * @author practice ground
+ * Create a function which accept number and display its table from 1 to 12
+ */
 
 public class Tables {
 	
